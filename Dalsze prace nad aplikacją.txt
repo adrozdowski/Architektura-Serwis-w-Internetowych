@@ -1,0 +1,1 @@
+Usuwanie folderu public na rzecz assets. Próba dodania logowania.
